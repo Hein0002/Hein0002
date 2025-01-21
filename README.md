@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Christian
 
-<!--
-**Hein0002/Hein0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+- :technologist: Open for new technologies.
+- :book: Love learning new stuff.
+- :man_student: Currently impoving my React & TypeScript skills
+<br>
 
-Here are some ideas to get you started:
+## Contact me:
+<p align="center">
+  <a href="mailto:Christian@qmistry.gg"><img src="https://img.shields.io/badge/E--Mail-red?style=plastic&logo=gmail&logoColor=white" alt="Mail"/></a>
+  &emsp;
+  <a href="https://discord.com/users/hein"><img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+### :keyboard: Programming Languages
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
+  &emsp;
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-orange?style=plastic&logo=java&logoColor=white" alt="Java"/></a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  &emsp;
+  <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-purple?style=plastic&logo=haskell&logoColor=white" alt="Haskell"/></a>
+</p>
