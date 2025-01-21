@@ -26,4 +26,8 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   &emsp;
   <a href="https://www.haskell.org/"><img src="https://img.shields.io/badge/Haskell-purple?style=plastic&logo=haskell&logoColor=white" alt="Haskell"/></a>
+  &emsp;
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-lightgrey?style=plastic&logo=mysql&logoColor=white" alt="SQL"/></a>
+  &emsp;
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-green?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
