@@ -15,7 +15,7 @@
 <br>
 
 ## My Skills
-### :keyboard: Programming Languages
+### :keyboard: Programming Languages:
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
   &emsp;
@@ -30,4 +30,24 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-lightgrey?style=plastic&logo=mysql&logoColor=white" alt="SQL"/></a>
   &emsp;
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-green?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+</p>
+<br>
+
+### :computer: Frontend Development:
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=white" alt="HTML5"/></a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-blue?style=plastic&logo=css3&logoColor=white" alt="CSS"/></a>
+  &emsp;
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-blue?style=plastic&logo=react&logoColor=white" alt="React"/></a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-black?style=plastic&logo=flask&logoColor=white" alt="Flask"/></a>
+  &emsp;
+  <a href="https://javalin.io/"><img src="https://img.shields.io/badge/Javalin-blue?style=plastic&logo=java&logoColor=white" alt="Javalin"/></a>
+  &emsp;
+  <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-blue?style=plastic&logo=mui&logoColor=white" alt="MUI"/></a>
+  &emsp;
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-purple?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+  &emsp;
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-green?style=plastic&logo=node.js&logoColor=white" alt="Node.js"/></a>
 </p>
