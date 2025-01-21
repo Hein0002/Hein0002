@@ -50,4 +50,6 @@
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-purple?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   &emsp;
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-green?style=plastic&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  &emsp;
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite"/></a>
 </p>
